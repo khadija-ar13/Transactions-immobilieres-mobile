@@ -4,13 +4,13 @@ import 'firebase/compat/firestore';
 import 'firebase/compat/storage';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCEVQk79Pv2AWtDH4Qoma4TIYbUEZFchxk",
-  authDomain: "fir-stockagetransactions2.firebaseapp.com",
-  projectId: "fir-stockagetransactions2",
-  storageBucket: "fir-stockagetransactions2.appspot.com",
-  messagingSenderId: "70709582941",
-  appId: "1:70709582941:web:667929d683ed21b14a81b4",
-  measurementId: "G-ZWYQSZ81R5"
+  apiKey: "AIzaSyBZss8af-vRHOlNLYbBqQ-YzrNF7yePq2o",
+  authDomain: "transctions-immobiliers.firebaseapp.com",
+  projectId: "transctions-immobiliers",
+  storageBucket: "transctions-immobiliers.firebasestorage.app",
+  messagingSenderId: "289810596454",
+  appId: "1:289810596454:web:696bf8cb18b62392aa63a7",
+  measurementId: "G-KXSJ74R1E1"
 };
 
 if (!firebase.apps.length) {
